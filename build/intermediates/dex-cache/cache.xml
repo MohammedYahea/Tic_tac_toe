@@ -3,57 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_99c1ccd53a7fa88549c32ac544faa9e96cd17557\classes.dex" />
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_700d3f5e563fa7f02c0a149f3e73a68c1c09af78\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="04b6868ce8409cb910a7542119d2cfcff0db0c23">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d2e1e3debd06aaf3888aeea3c511f163f380cc25\classes.dex" />
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_e8eb5e760eeac6b5f1baf863b1da364d13c0915c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="bd0b303ff6f66ca3337ec6a44417a95a5eac5d2b">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0d1540e19aa8e7dd3310960c22f726f41851d15\classes.dex" />
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_bb339a18651d24dbbc4d2822b22f4bf79ee335e0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_354c3ec3cde8af2d4ea818652ee132ee4894264a\classes.dex" />
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b7f57947bf012caaceb8ffc05d76ccf1ed203089\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_852cf636d8988ab8da1710d3e3409faa1930d9e2\classes.dex" />
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="G:\My Courses\Android programming\The course\4.4\Connect3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_752226b8f62926ab881e68541632bffd71ba0849\classes.dex" />
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_a5220da75d575765a736fd50cf02a4fb5820617c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5bee2f02f844dff2d89098308131a023962539c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="965638664c6aee4362ea7cff6824e7209b9c4f78">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab54d71d550628b33641c8bd5a700b3ef830ea33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="833997dd728d870f7b528ff876e9568f1b28ea4d">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23c0599581aff7bdbc3d67fce83aa2d87627d73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_98b6c032b190b7eab9d02a6928f538c6df4ec80b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_36b7fa473a9173ce519553ab19e72b67876b7c12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_1546713d31e56d7d17733d6f894228524efef58e\classes.dex" />
     </item>
 
 </items>
