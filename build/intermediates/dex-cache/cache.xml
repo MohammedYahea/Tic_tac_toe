@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="965638664c6aee4362ea7cff6824e7209b9c4f78">
+        sha1="684f4948b8d0847cd8c75c449552f83c3f011411">
         <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab54d71d550628b33641c8bd5a700b3ef830ea33\classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="833997dd728d870f7b528ff876e9568f1b28ea4d">
+        sha1="cb2f2ba2c5139124f5e29538e3dd955f3034b134">
         <dex dex="G:\My Courses\Android programming\The course\4.4\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23c0599581aff7bdbc3d67fce83aa2d87627d73f\classes.dex" />
     </item>
     <item

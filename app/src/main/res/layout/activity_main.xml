@@ -146,4 +146,15 @@
             android:layout_gravity="center_horizontal"
             android:onClick="playAgain" />
     </LinearLayout>
+
+    <TextView
+        android:text="Click on any Square to start playing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:id="@+id/textView"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
 </RelativeLayout>
